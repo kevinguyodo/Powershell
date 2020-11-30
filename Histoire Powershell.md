@@ -20,3 +20,7 @@ __Pour comprendre un peu mieux Powershell, nous devons passer par son histoire__
 - En janvier 2018, la version 6 de Windows Powershell est sortie, elle est basé sur .NET core 2.1, et elle est installable sur Windows mais aussi Linux et Macos
 
 - En mars 2020, la dernière version de Windows Powershell est sortie, cette version est basé sur .NET 3.1, c'est une version LTS, ce qui signifie Long-Term Support, c'est donc une version spécifique d'un logiciel dont le support est assuré pour une période plus longue que la normale.
+
+
+Pour revenir aux sommaires cliqué sur ce lien : https://github.com/kevinguyodo/Powershell/blob/main/README.md
+Pour aller à la prochaine partie cliqué sur ce lien :
