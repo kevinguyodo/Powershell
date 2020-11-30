@@ -2,7 +2,7 @@
 
 __L'origine de Powershell__
 
-Windows Powershell anciennement Microsoft Command Shell (MSH), a été développé par Microsoft, c’est avant tout un language de script basée sur la programmation orientée objet (POO). Le powershell est compatible avec tout les Windows doté de la version 2.0 du .NET. 
+Windows Powershell anciennement Microsoft Command Shell (MSH), a été développé par Microsoft, c’est avant tout un language de script basée sur la programmation orientée objet (POO). Le powershell est compatible avec tout les Windows doté de la version 2.0 du .NET. Le windows Powershell a été écrit en C# (language très orienté objet, créer par microsoft).
 Les concepteurs de Powershell sont Jeffrey Snover, Bruce Payette, James Truher
 
 __Pour comprendre un peu mieux Powershell, nous devons passer par son histoire__
