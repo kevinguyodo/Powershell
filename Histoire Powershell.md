@@ -24,4 +24,4 @@ __Pour comprendre un peu mieux Powershell, nous devons passer par son histoire__
 
 Pour revenir aux sommaires cliqué sur ce lien : https://github.com/kevinguyodo/Powershell/blob/main/README.md
 
-Pour aller à la prochaine partie cliqué sur ce lien : https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md
+Pour poursuivre le cours et passer à la partie suivante cliqué sur le lien ci-dessous : https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md
