@@ -1,10 +1,12 @@
 # Histoire Powershell
 
+__L'origine de Powershell__
 
 
-__Pour comprendre un peu mieux Powershell, nous devons passer par son histoire.__
 
--	Tout commence le 11 novembre 2005 où il y a l'apparition de la première bêta, mais c'est le 14 novembre 2006 que la première version officiel est sorti,il y avait la version Windows Powershell 1.0, La version 1.0 a été intégré à Windows 2008(R1), cette version a été rétrospectivement installé sur Vista, Windows XPsp2, et Windows server 2003. L’installation du framework .NET 2.0 est requise. Elle offre un potentiel considérable au regard de l’ancestral invite de commande. Une boite à outil de 129 applets de commande (les applets de commande effectue une action et retourne généralement un objet Microsoft .NET.
+__Pour comprendre un peu mieux Powershell, nous devons passer par son histoire__
+
+-	Tout commence le 11 novembre 2005 où il y a l'apparition de la première bêta, mais c'est le 14 novembre 2006 que la première version officiel est sorti,il y avait la version Windows Powershell 1.0, La version 1.0 a été intégré à Windows 2008(R1), cette version a été rétrospectivement installé sur Windows server 2003. Le 24 mars 2009 la version 1.0 apparaît pour Windows Vista et Windows XPsp2 . L’installation du framework .NET 2.0 est requise. Elle offre un potentiel considérable au regard de l’ancestral invite de commande. Une boite à outil de 129 applets de commande (les applets de commande effectue une action et retourne généralement un objet Microsoft .NET.
 
 -	En juillet 2009 ,il y avait la version Windows Powershell 2.0. Le nombre d’applets de commande passe à 236. Cette version peut être rétroactivement installée sur Vista, Windows Server 2008, Windows XP sp3 et Windows Server 2003. Cette version est supporté sur Windows Server 2008R2 Core et Windows 7. Windows PowerShell 2.0 a été déprécié en août 2017. L’installation du framework .NET 2.0 est requise. L’ajout du framework .NET 3.5 permet d’étendre les capacités, particulièrement sur les objets graphiques. Windows PowerShell 2.0 ne dispose pas d’une quantité importante de fonctionnalités de sécurisation de renforcement et de sécurité qui ont été ajoutées dans les versions 3, 4 et 5. Windows ne recommande pas aux utilisateurs de l’utiliser , s’ils peuvent l’éviter. Powershell 2.0 incluent beaucoup de nouvelle fonctionnalité, comme l’accès à distance, des transactions, de nouveaux modules, de nouvelle API(Application Programming Interface),  transfert de fichier réseau, débogage de script, environnement de script intégré à Powershell …
 
