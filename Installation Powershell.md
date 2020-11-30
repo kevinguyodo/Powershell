@@ -9,3 +9,7 @@ __Si vous n'avez pas Powershell d'installer sur votre ordinateur, il suffit de s
 5. Une fois télécharger, chercher l’application dans la barre de recherche windows en bas à droite
 6. Exécuter Windows Powershell en tant qu’administrateur, sinon certaines commandes ne fonctionneront pas
 7. Si certaines commandes powershell ne fonctionnent pas même en tant qu’administrateur, veuillez suivre les prochaines instructions : Panneau de confinguration (dans la barre de recherche) – Compte utilisateur – Compte utilisateur – Modifier les paramètres de contrôles du compte utilisateur – baisser la jauge aux plus bas
+
+Pour revenir au sommaire cliqué sur le lien suivant :
+
+Pour poursuivre le cours et passer à la partie suivante cliqué sur le lien suivant : https://github.com/kevinguyodo/Powershell/blob/main/Commandlets.md
