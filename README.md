@@ -9,6 +9,6 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
 - Qu'est ce que Powershell, à quoi sert Powershell
 - Histoire de Powershell
 - Comment installé Powershell
-- Executer et comprendre les Commandelets
+- Executer et comprendre les Commandlets
 - Comprendre Powershell ISE
 - Quelques script
