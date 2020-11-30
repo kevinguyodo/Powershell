@@ -12,4 +12,4 @@ __Si vous n'avez pas Powershell d'installer sur votre ordinateur, il suffit de s
 
 Pour revenir au sommaire cliqué sur le lien suivant :
 
-Pour poursuivre le cours et passer à la partie suivante cliqué sur le lien suivant : https://github.com/kevinguyodo/Powershell/blob/main/Commandlets.md
+Pour poursuivre le cours et passer à la partie suivante cliqué sur le lien ci-dessous : https://github.com/kevinguyodo/Powershell/blob/main/Commandlets.md
