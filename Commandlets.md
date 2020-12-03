@@ -11,7 +11,7 @@ __Certaines cmdlets sont longues à taper, il y a donc des Alias présent dans P
 
 - Get-Command = Cette commande permet de connaître toutes les commandes présentent dans Powershell
 
-Puis on obtient le résultat suivant : ![drawing](https://github.com/kevinguyodo/Powershell/blob/main/get-command.PNG)
+Puis on obtient le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command.PNG)
 
 ## Effacer l'historique des commandes Powershell
 
