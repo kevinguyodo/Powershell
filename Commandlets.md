@@ -6,3 +6,5 @@ __Le principe de base des cmdlets c'est le suivant : 'verbe'-'nom'__
 
 ## Les commandes de base
 
+- Tout d'abord, pour connaître toutes les cmdlets que l'on peut exécuter, nous pouvons utiliser la commande suivantes : Get-Command
+
