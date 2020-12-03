@@ -13,8 +13,15 @@ __Certaines cmdlets sont longues à taper, il y a donc des Alias présent dans P
 
 Puis on obtient le résultat suivant : ![drawing](https://github.com/kevinguyodo/Powershell/blob/main/get-command.PNG)
 
-## Les commandes basiques
+## Effacer l'historique des commandes Powershell
 
 - Clear = Permet de supprimer ce qu'on a exécuter avant, ça efface l'écran
 
 On obtient donc le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Clear.PNG)
+
+## Ajouter un objet ou des méthodes .avec Powershell
+
+- Add = Permet d'ajouter un objet ou une méthode, avec la commande 'Add' on peut faire beaucoup de chose, comme les exemples suivantes.
+
+--Add
+
