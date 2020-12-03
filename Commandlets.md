@@ -17,6 +17,8 @@ Puis on obtient le résultat suivant : ![](https://github.com/kevinguyodo/Powers
 
 - Clear = Permet de supprimer ce qu'on a exécuter avant, ça efface l'écran
 
+- cls = L'Alias de clear par défault
+
 On obtient donc le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Clear.PNG)
 
 ## Ajouter un objet ou des méthodes .avec Powershell
