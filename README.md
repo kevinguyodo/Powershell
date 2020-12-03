@@ -8,7 +8,7 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
 
 ## Sommaire
 
-- (Histoire de Powershell] https://github.com/kevinguyodo/Powershell/blob/main/Histoire%20Powershell.md
+- [Histoire de Powershell] https://github.com/kevinguyodo/Powershell/blob/main/Histoire%20Powershell.md
 - Comment installé Powershell
 - Executer et comprendre les Commandlets
 - Comprendre Powershell ISE
