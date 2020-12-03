@@ -23,5 +23,5 @@ On obtient donc le résultat suivant : ![](https://github.com/kevinguyodo/Powers
 
 - Add = Permet d'ajouter un objet ou une méthode, avec la commande 'Add' on peut faire beaucoup de chose, comme les exemples suivantes.
 
---Add
+- Add -Member = 
 
