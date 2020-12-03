@@ -17,7 +17,7 @@ Puis on obtient le résultat suivant : ![drawing](https://github.com/kevinguyodo
 
 - Clear = Permet de supprimer ce qu'on a exécuter avant, ça efface l'écran
 
-On obtient donc le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Clear.PNG)
+On obtient donc le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Clear.PNG)
 
 ## Ajouter un objet ou des méthodes .avec Powershell
 
