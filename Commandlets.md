@@ -17,4 +17,4 @@ Puis on obtient le résultat suivant : ![drawing](https://github.com/kevinguyodo
 
 - Clear = Permet de supprimer ce qu'on a exécuter avant, ça efface l'écran
 
-On obtient donc le résultat suivant : ![]()
+On obtient donc le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Clear.PNG)
