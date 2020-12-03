@@ -8,4 +8,4 @@ __Le principe de base des cmdlets c'est le suivant : 'verbe'-'nom'__
 
 - Tout d'abord, pour connaître toutes les cmdlets que l'on peut exécuter, nous pouvons utiliser la commande suivantes : Get-Command
 
-Puis on obtient le résultat suivant : ![drawing](https://github.com/kevinguyodo/Powershell/blob/main/get-command.PNG){width=100px}
+Puis on obtient le résultat suivant : ![drawing](https://github.com/kevinguyodo/Powershell/blob/main/get-command.PNG) {width=100px}
