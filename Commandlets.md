@@ -8,7 +8,7 @@ Avant de commencer, avec les commandes commençant par Get, nous allons pouvoir 
 
 - Get-Command = Cette commande permet de connaître toutes les commandes présentent dans Powershell
 
-Puis on obtient le résultat suivant : ![my_image](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command.PNG#left)
-![my_image](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command1.PNG#right)
+Puis on obtient le résultat suivant : ![my_image](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command-basique.PNG)
+![my_image](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command1.PNG)
 
 
