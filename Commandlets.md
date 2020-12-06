@@ -20,4 +20,8 @@ On a donc plusieurs commandlets possibles, nous allons les voir ci-dessous :
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command1.PNG)
 
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command -name.PNG)
+
+
+
 
