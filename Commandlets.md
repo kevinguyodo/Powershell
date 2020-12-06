@@ -16,11 +16,13 @@ On a donc plusieurs commandlets possibles, nous allons les voir ci-dessous :
 
 - Get-command 'lettre ou nombre choisie'* = Cette command va permettre de lister toutes les commandes commençant par ce que l'on met avant l'astérisque(*)
 
-- Get-command -name 'nom de la commande' = Cette commande va afficher uniquement la commande qui se situe entre les guillemets simple('')
-
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command1.PNG)
 
+- Get-command -name 'nom de la commande' = Cette commande va afficher uniquement la commande qui se situe entre les guillemets simple('')
+
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command%20-name.PNG)
+
+-Get-
 
 
 
