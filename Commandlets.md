@@ -43,3 +43,5 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 - Get-PSSession = Cette commande permet d'obtenir les session Powershell créées dans la session en cours.
 
+- Get-
+
