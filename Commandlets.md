@@ -41,3 +41,5 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-PSHostProcessInfo.PNG)
 
+- Get-PSSession = Cette commande permet d'obtenir les session Powershell créées dans la session en cours.
+
