@@ -34,7 +34,5 @@ Avant d'évoquer les modules, il faut savoir que lorsqu'on exécute la commande,
 Avant de terminer cette sous-partie, il y a d'autre commandes qui permettent de lister des informations comme Get-History (Permet de connaître l'historique de la session), ou encore Get-Module (Permet de connaître qui ont été importé dans la session en cours), mais Get-Command reste la plus utile car elle donne accès à toutes les commandes.
 Nous avons vu les principales commandes commençant par get-command, nous allons donc passer aux prochaines commandes Get.
 
-U+0020× 2
-
 ##
 
