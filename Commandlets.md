@@ -35,5 +35,7 @@ Avant de terminer cette sous-partie, il y a d'autre commandes qui permettent de 
 
 Nous avons vu les principales commandes commençant par get-command, nous allons donc passer aux prochaines commandes Get.
 
-##
+## Obtenir des informations sur les session et/ou l'ordinateur
+
+- Get-PSHostProcessInfo = 
 
