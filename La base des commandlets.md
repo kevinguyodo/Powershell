@@ -8,7 +8,7 @@ __Certaines cmdlets sont longues à taper, il y a donc des alias présent dans P
 
 ## Les commandes de bases
 
-- Get -'nom'= Permet d'avoir des informations sur le nom qui le suit
+- Get = Permet d'avoir des informations 
 
 - Set = Permet de définir des informations
 
