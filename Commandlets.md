@@ -39,5 +39,5 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 - Get-PSHostProcessInfo = Cette commande permet de lister des information de processus sur l'hôte Powershell 
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-PSHostProcessInfo.PNG)
 
