@@ -37,5 +37,7 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 ## Obtenir des informations sur les session et/ou l'ordinateur
 
-- Get-PSHostProcessInfo = 
+- Get-PSHostProcessInfo = Cette commande permet de lister des information de processus sur l'hôte Powershell 
+
+![]()
 
