@@ -25,3 +25,9 @@ On a donc plusieurs commandlets possibles, nous allons les voir ci-dessous :
 Avant d'évoquer les modules, il faut savoir que lorsqu'on exécute la commande, Get-command, il y a plusieurs colonne, et c'est la colonne de droite qui est nommé source, qui va correspondre au module.
 - Get-command -Module 'nom du module' = Cette commande va affichier uniquement les commandes qui ont le nom du module que l'on met entre simple guillemet, or on peut afficher commandes avec plusieurs modules différent avec la commande suivante, (Get-command -Module 'nom du module 1', 'nom du module 2', 'nom du module 3', ....)
 
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-command%20-Module.PNG)
+
+- Get-command -ListImported = Cette commande va lister toutes les commandes de la session en cours 
+
+![]()
+
