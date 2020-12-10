@@ -1,10 +1,8 @@
-# Les commandlets 
-
-## Les commandlets commençant par : Get 
+# Les commandlets commençant par : Get 
 
 Avant de commencer, avec les commandes commençant par Get, nous allons pouvoir lister des modules, lister des commandlets, lister des mise à jours ..., mais encore effectuer tout ceci par rapport au nom, et au type de ce que l'on cherche ...
 
-### Lister toutes les commandes possibles
+## Lister toutes les commandes possibles
 
 - __Get-Command__ = Cette commande permet de lister toutes les commandes présentent dans Powershell
 
@@ -45,19 +43,19 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 - __Get-PSSessionConfiguration__ = Cette commande permet d'obtenir les configurations des sessions qui ont été enregistré sur l'ordinateur local.
 
-### Pouvoir afficher l'architecture des fichiers
+## Pouvoir afficher l'architecture des fichiers
 - __Get-ChildItem__ = Cette commande permet d'afficher tous les fichiers et dossiers présent dans le répertoire où on se situe.
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-ChildItem.PNG)
 
 - __Get-ChildItem -path "<chemin_voulu>"__ = Cette commande aura la même utilité que Get-ChildItem mais le '-path' va permettre de choisir un chemin que l'on va pouvoir choisir
 
-### Lister les services disponibles 
+## Lister les services disponibles 
 
 - __Get-Service__ = Cette commande permet de lister les services disponibles avec powershell 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-Service.PNG)
 
-- __Get-Member__  = Cette commande revient à faire 'Get-Service | Get-Member', et elle permet d'obtenir les propriété et les méthode des objets service 
+- __Get-Service | Get-Member__  = Cette commande permet d'obtenir les propriété et les méthode des objets service 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-ServiceGet-Member.PNG)
