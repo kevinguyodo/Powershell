@@ -6,7 +6,7 @@ Avant de commencer, avec les commandes commençant par Get, nous allons pouvoir 
 
 ### Lister toutes les commandes possibles
 
-- Get-Command = Cette commande permet de lister toutes les commandes présentent dans Powershell
+- __Get-Command__ = Cette commande permet de lister toutes les commandes présentent dans Powershell
 
 Puis on obtient le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command-basique.PNG)
 
