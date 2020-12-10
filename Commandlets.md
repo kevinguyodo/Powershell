@@ -1,10 +1,10 @@
 # Les commandlets 
 
-# Les commandlets commençant par : Get 
+## Les commandlets commençant par : Get 
 
 Avant de commencer, avec les commandes commençant par Get, nous allons pouvoir lister des modules, lister des commandlets, lister des mise à jours ..., mais encore effectuer tout ceci par rapport au nom, et au type de ce que l'on cherche ...
 
-## Lister toutes les commandes possibles
+### Lister toutes les commandes possibles
 
 - Get-Command = Cette commande permet de lister toutes les commandes présentent dans Powershell
 
@@ -35,7 +35,7 @@ Avant de terminer cette sous-partie, il y a d'autre commandes qui permettent de 
 
 Nous avons vu les principales commandes commençant par get-command, nous allons donc passer aux prochaines commandes Get.
 
-## Obtenir des informations sur les session et/ou l'ordinateur
+### Obtenir des informations sur les session et/ou l'ordinateur
 
 - Get-PSHostProcessInfo = Cette commande permet de lister des information de processus sur l'hôte Powershell 
 
@@ -43,5 +43,6 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 - Get-PSSession = Cette commande permet d'obtenir les session Powershell créées dans la session en cours.
 
-- Get-
+- Get-PSSessionConfiguration = Cette commande permet d'obtenir les configurations des sessions qui ont été enregistré sur l'ordinateur local.
+
 
