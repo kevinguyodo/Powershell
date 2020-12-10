@@ -59,3 +59,9 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 - __Get-Service | Get-Member__  = Cette commande permet d'obtenir les propriété et les méthode des objets service 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-ServiceGet-Member.PNG)
+
+## Obtenir des informations sur une commande choisie
+
+__Get-Help 'commande choisie'__ = Cette commande permet d'obtenir beaucoup d'information sur la commande se situant après 'Get-Help'
+
+![]()
