@@ -56,4 +56,4 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 - __Get-Service__ = Cette commande permet de lister les services disponibles avec powershell 
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-Service.PNG)
