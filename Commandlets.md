@@ -50,4 +50,6 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-ChildItem.PNG)
 
+- __Get-ChildItem -path "<chemin_voulu>"__ = Cette commande aura la même utilité que Get-ChildItem mais le '-path' va permettre de choisir un chemin que l'on va pouvoir choisir
+
 
