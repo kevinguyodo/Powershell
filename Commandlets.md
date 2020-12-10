@@ -48,6 +48,6 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 ### Pouvoir afficher l'architecture des fichiers
 - __Get-ChildItem__ = Cette commande permet d'afficher tous les fichiers et dossiers présent dans le répertoire où on se situe.
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-ChildItem.PNG)
 
 
