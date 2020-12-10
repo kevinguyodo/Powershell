@@ -1,6 +1,7 @@
 # Commandelets Set
 
-Avant de commencer, avec les commandes Set, nous allons pouvoir définir des informations.
+Avant de commencer, avec la commande set, nous allons pouvoir changer toutes les informations que l'on souhaite concernant les services, les utilisateurs ...
+
 
 ## Permet de se déplacer dans les différents répertoires
 
@@ -14,4 +15,3 @@ Avant de commencer, avec les commandes Set, nous allons pouvoir définir des inf
 
 - __Set-Service -name "nom du service voulu" -Status Stopped__ = Cette commande va permettre de changer le status du service et de le stopper
 
-Avec la commande set, nous allons pouvoir changer toutes les informations que l'on souhaite concernant les services, les utilisateurs ...
