@@ -14,7 +14,7 @@ __Certaines cmdlets sont longues à taper, il y a donc des alias présent dans P
 
 - Clear = Permet de réinitialiser l'affiche de l'interface
 
-- Remove = Permet de supprimer un fichier ou dossier
+- Remove = Permet de supprimer ce que l'on souhaite
 
 - New = Permet de créer un alias, objet, fichier ...
 
