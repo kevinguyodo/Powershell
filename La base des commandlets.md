@@ -6,7 +6,7 @@ __Le principe de base des cmdlets c'est le suivant : 'verbe'-'nom'__
 
 __Certaines cmdlets sont longues à taper, il y a donc des alias présent dans Powershell, les alias sont des raccourcis vers des commandes__ 
 
-## Les commandes de bases
+## Les différent verbes qui vont permettre de pouvoir exécuter des commandes
 
 - Get = Permet d'avoir des informations 
 
