@@ -8,7 +8,7 @@ Avant de commencer, avec les commandes commençant par Get, nous allons pouvoir 
 
 - __Get-Command__ = Cette commande permet de lister toutes les commandes présentent dans Powershell
 
-Puis on obtient le résultat suivant : ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command-basique.PNG)
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command-basique.PNG)
 
 Or Powershell nous donne la possibilité de chercher des commandes par nom, par type, ou par source (module).
 
@@ -44,5 +44,10 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 - __Get-PSSession__ = Cette commande permet d'obtenir les session Powershell créées dans la session en cours.
 
 - __Get-PSSessionConfiguration__ = Cette commande permet d'obtenir les configurations des sessions qui ont été enregistré sur l'ordinateur local.
+
+### Pouvoir afficher l'architecture des fichiers
+- __Get-ChildItem__ = Cette commande permet d'afficher tous les fichiers et dossiers présent dans le répertoire où on se situe.
+
+![]()
 
 
