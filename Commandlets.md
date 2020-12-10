@@ -14,11 +14,11 @@ Or Powershell nous donne la possibilité de chercher des commandes par nom, par 
 
 On a donc plusieurs commandlets possibles, nous allons les voir ci-dessous :
 
-- Get-command 'lettre ou nombre choisie'* = Cette command va permettre de lister toutes les commandes commençant par ce que l'on met avant l'astérisque(*)
+- __Get-command 'lettre ou nombre choisie'*__ = Cette command va permettre de lister toutes les commandes commençant par ce que l'on met avant l'astérisque(*)
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command1.PNG)
 
-- Get-command -name 'nom de la commande' = Cette commande va lister uniquement la commande qui se situe entre les guillemets simple('')
+- __Get-command -name 'nom de la commande'__ = Cette commande va lister uniquement la commande qui se situe entre les guillemets simple('')
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/get-command%20-name.PNG)
 
@@ -27,7 +27,7 @@ Avant d'évoquer les modules, il faut savoir que lorsqu'on exécute la commande,
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-command%20-Module.PNG)
 
-- Get-command -ListImported = Cette commande va lister toutes les commandes de la session en cours 
+- __Get-command -ListImported__ = Cette commande va lister toutes les commandes de la session en cours 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-command-ListImported.PNG)
 
@@ -37,12 +37,12 @@ Nous avons vu les principales commandes commençant par get-command, nous allons
 
 ### Obtenir des informations sur les session et/ou l'ordinateur
 
-- Get-PSHostProcessInfo = Cette commande permet de lister des information de processus sur l'hôte Powershell 
+- __Get-PSHostProcessInfo__ = Cette commande permet de lister des information de processus sur l'hôte Powershell 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Get-PSHostProcessInfo.PNG)
 
-- Get-PSSession = Cette commande permet d'obtenir les session Powershell créées dans la session en cours.
+- __Get-PSSession__ = Cette commande permet d'obtenir les session Powershell créées dans la session en cours.
 
-- Get-PSSessionConfiguration = Cette commande permet d'obtenir les configurations des sessions qui ont été enregistré sur l'ordinateur local.
+- __Get-PSSessionConfiguration__ = Cette commande permet d'obtenir les configurations des sessions qui ont été enregistré sur l'ordinateur local.
 
 
