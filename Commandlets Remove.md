@@ -9,3 +9,7 @@ Les commandes Remove ont pour but de supprimer ce que l'on souhaite
 ## Supprimer une/plusieurs session(s) Powershell
 
 - __Remove-PSSession -ID 3, 4__ = Cette commande va permettre de supprimer les session qui ont un ID 3, 4
+
+## Supprimer des fichiers ou dossiers
+
+- __Remove-Item -path 'Chemin allant au doosier ou fichier voulant être supprimé'__ = Cette commande va permettre de supprimer le dossier ou fichier voulant être supprimé
