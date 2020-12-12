@@ -10,6 +10,8 @@ En effet dans Powershell nous devons placé le signe '$' avant le nom de la vari
 
 Une variable peut être un chiffre, une chaîne de caractère, un booléen (True ou False), un symbole. 
 
+### Variable de type nombre 
+
 Nous allons faire un exemple où nous allons créer deux variables (qui seront des chiffres), puis créer une variable qui aura comme valeur la somme des deux variables prédéfinis:
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variables.PNG)
@@ -18,6 +20,8 @@ Et voici le résultat :
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var2.PNG)
 
+### Variable de type chaîne de caractère
+
 Maintenant nous allons créer une variable qui sera une chaîne de caractères :
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variable%20string.PNG)
@@ -25,3 +29,5 @@ Maintenant nous allons créer une variable qui sera une chaîne de caractères :
 Et voici le résultat : 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var_letter.PNG)
+
+### Variable de type de booléen
