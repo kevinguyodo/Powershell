@@ -8,7 +8,7 @@ Les variables se créer de la manière suivante : $'nom_de_la_variables' = défi
 
 En effet dans Powershell nous devons placé le signe '$' avant le nom de la variable, puis le signe '=' signifie que l'on va définir une valeur à la variable.
 
-Une variable peut être un chiffre, une chaîne de caractère, un booléen (True ou False), un symbole. 
+Une variable peut être un chiffre, une chaîne de caractère, un booléen (True ou False) ...  
 
 ### Variable de type nombre 
 
@@ -31,3 +31,5 @@ Et voici le résultat :
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var_letter.PNG)
 
 ### Variable de type de booléen
+
+Dans powershell les variables bolléen sont déjà créer, c'est à dire qu'il deux variable dans powershell qui se nomme true et false et qui peuvent être utiliser.
