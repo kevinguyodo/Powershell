@@ -20,8 +20,8 @@ Et voici le résultat :
 
 Maintenant nous allons créer une variable qui sera une chaîne de caractères :
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variable%20string.PNG)
 
 Et voici le résultat : 
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var_letter.PNG)
