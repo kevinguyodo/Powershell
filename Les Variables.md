@@ -12,4 +12,6 @@ Nous allons faire un exemple où nous allons créer deux variables, puis créer 
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variables.PNG)
 
+Et voici le résultat :
+
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var2.PNG)
