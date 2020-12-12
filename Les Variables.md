@@ -11,3 +11,5 @@ En effet dans Powershell nous devons placé le signe '$' avant le nom de la vari
 Nous allons faire un exemple où nous allons créer deux variables, puis créer une variable qui aura comme valeur la somme des deux variables prédéfinis:
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variables.PNG)
+
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var2.PNG)
