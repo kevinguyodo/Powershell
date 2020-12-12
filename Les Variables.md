@@ -15,3 +15,5 @@ Nous allons faire un exemple où nous allons créer deux variables, puis créer 
 Et voici le résultat :
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/var2.PNG)
+
+Une variable peut être un chiffre, une chaîne de caractère, un booléen (True ou False), un symbole. 
