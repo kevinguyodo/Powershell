@@ -26,6 +26,7 @@ Comme énoncé précedement on peut voir trois volets, nous allons décrire le f
 
 ## Ecrire son premier script 
 
+### Mode de sécurité Powershell 
 Avant d'écrire notre premier script, nous devons comprendre ce qu'est un script Powershell. Powershell est language très orienté objet, c'est à dire que toute commande renvoie un objet, chaques scripts Powershell aura une extension .PS1, c'est avec cette extension que l'on peut reconnaître les scripts Powershell. Powershell dispose de 6 modes de sécurité qui vont permettre d'exécuter ou non un script Powershell.
 
 Les 6 modes sont les suivants:
@@ -50,3 +51,4 @@ Pour changer notre mode de sécurité, nous devons déjà être en Powershell IS
 
 - __Set-ExecutionPolicy 'mode_voulu'__
 
+### La base des script Powershell 
