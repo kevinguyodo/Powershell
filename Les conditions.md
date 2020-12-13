@@ -7,5 +7,7 @@ Dans le language Powershell comme dans toutes les autres languages, un script es
 Les conditions dans Powershell, se forme de la manière suivantes :
 
 - if (condition) {
+
   action_qui_va_être_exécuter_si_la_condition_est_respecté
+  
 }
