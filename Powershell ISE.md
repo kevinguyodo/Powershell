@@ -18,11 +18,11 @@ Lorsqu'on ouvre Powershell ISE nous pouvons observer trois volets, comme l'image
 
 Comme énoncé précedement on peut voir trois volets, nous allons décrire le fonctionnement des trois volets :
 
-- Le Volet en haut à gauche (volet des scripts) = Ce volet sera la partie où on va pouvoir écrire les scripts Powershell
+- __Le Volet en haut à gauche (volet des scripts)__ = Ce volet sera la partie où on va pouvoir écrire les scripts Powershell
 
-- Le Volet en bas à gauche (volet de sortie) = Ce volet sera la partie qui est semblable à un terminal, c'est dans ce volet que nous pourrons apercevoir le résultat du script
+- __Le Volet en bas à gauche (volet de sortie)__ = Ce volet sera la partie qui est semblable à un terminal, c'est dans ce volet que nous pourrons apercevoir le résultat du script
 
-- Le Volet à droite (volet de commandes) = Ce volet n'est pas indispensable, il peut servir à trouver des commandes, on peut faire des copier/coller des commandes dans le volet de sortie ou le volet des scripts.
+- __Le Volet à droite (volet de commandes)__ = Ce volet n'est pas indispensable, il peut servir à trouver des commandes, on peut faire des copier/coller des commandes dans le volet de sortie ou le volet des scripts.
 
 ## Ecrire son premier script 
 
@@ -30,20 +30,20 @@ Avant d'écrire notre premier script, nous devons comprendre ce qu'est un script
 
 Les 6 modes sont les suivants:
 
-- Restricted = Ce mode interdira toutes exécutions de scripts
+- __Restricted__ = Ce mode interdira toutes exécutions de scripts
 
-- Allsigned = Ce mode requiert une signature numérique par un éditeur 
+- __Allsigned__ = Ce mode requiert une signature numérique par un éditeur 
 
-- RemoteSigned = Ce mode exécutera tout fichiers sauf les fichiers provenant d'Internet qui doivent être signés numériquement. Si un fichier signé issu d'Internet est exécuté, le shell affichera un message d'avertissement demandant confirmation avant son exécution.
+- __RemoteSigned__ = Ce mode exécutera tout fichiers sauf les fichiers provenant d'Internet qui doivent être signés numériquement. Si un fichier signé issu d'Internet est exécuté, le shell affichera un message d'avertissement demandant confirmation avant son exécution.
 
-- Unrestricted = Ce mode permet d'exécuter tout les fichiers, il y aura tout de même un message d'avertissement demandant la confirmation d'exécutions pour les fichiers issue d'internet
+- __Unrestricted__ = Ce mode permet d'exécuter tout les fichiers, il y aura tout de même un message d'avertissement demandant la confirmation d'exécutions pour les fichiers issue d'internet
 
-- Bypass = Ce mode permet d'exécuter tout les fichiers sans messages même ceux qui proviennent d'Internet
+- __Bypass__ = Ce mode permet d'exécuter tout les fichiers sans messages même ceux qui proviennent d'Internet
 
-- Undefined = Ce mode ne permet pas d'exécuter les fichiers, ce mode ne permet rien, il faut donc définir un mode pour remplacer celui-ci
+- __Undefined__ = Ce mode ne permet pas d'exécuter les fichiers, ce mode ne permet rien, il faut donc définir un mode pour remplacer celui-ci
 
 Par défault, le mode de sécurité de Powershell c'est le Restricted, mais pour connaître le mode de sécurité attribuer à notre Powershell, nous allons taper la commande suivantes :
 
-- Get-ExecutionPolicy
+- __Get-ExecutionPolicy__
 
 
