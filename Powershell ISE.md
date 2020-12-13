@@ -42,7 +42,7 @@ Les 6 modes sont les suivants:
 
 - __Undefined__ = Ce mode ne permet pas d'exécuter les fichiers, ce mode ne permet rien, il faut donc définir un mode pour remplacer celui-ci
 
-Par défault, le mode de sécurité de Powershell c'est le Restricted, mais pour __connaître le mode de sécurité attribuer à notre Powershell__, nous allons taper la commande suivantes :
+Par défault, le mode de sécurité de Powershell c'est le Restricted, mais pour connaître le mode de sécurité attribuer à notre Powershell, nous allons taper la commande suivantes :
 
 - __Get-ExecutionPolicy__
 
