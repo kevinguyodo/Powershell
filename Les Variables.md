@@ -37,3 +37,9 @@ Dans powershell les variables bolléen sont déjà créer, c'est à dire qu'il d
 ### Typer une variable
 
 Dans Powershell, nous pouvons définir une variable comme vu précédement, et nous pouvons changer le type des variables si nous réutilisons celle-ci, comme dans l'exemple suivant : 
+
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple1.PNG)
+
+Et nous obtenons donc le résultat suivant :
+
+![]()
