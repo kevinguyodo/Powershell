@@ -44,11 +44,3 @@ Et nous obtenons donc le résultat suivant :
 
 ![]()
 
-
-$var1 = "Hello World"
-$var2 = 14
-Write-Host($var1, "I am", $var2,"years old")
-
-$var1 = 14
-$var2 = "Hello World"
-Write-Host($var2, "I am", $var1,"years old")
