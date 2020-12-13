@@ -16,4 +16,14 @@ Lorsqu'on ouvre Powershell ISE nous pouvons observer trois volets, comme l'image
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Powershell%20ISE.PNG)
 
-Comme énoncé précedement on peut voir trois volets, nous allons décrire le fonctionnement des trois volets.
+Comme énoncé précedement on peut voir trois volets, nous allons décrire le fonctionnement des trois volets :
+
+- Le Volet en haut à gauche (volet des scripts) = Ce volet sera la partie où on va pouvoir écrire les scripts Powershell
+
+- Le Volet en bas à gauche (volet de sortie) = Ce volet sera la partie qui est semblable à un terminal, c'est dans ce volet que nous pourrons apercevoir le résultat du script
+
+- Le Volet à droite (volet de commandes) = Ce volet n'est pas indispensable, il peut servir à trouver des commandes, on peut faire des copier/coller des commandes dans le volet de sortie ou le volet des scripts.
+
+## Ecrire son premier script 
+
+Avant d'écrire notre premier script, nous devons comprendre ce qu'est un script Powershell. Un script Powershell 
