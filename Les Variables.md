@@ -48,5 +48,7 @@ Mais Powershell peut permettre de typer une variables, c'est à dire que si l'on
 
 Donc pour typer une variable, il suffit de mettre entre crochet avant le variable, son type, comme le montre l'exemple suivant : 
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple%202.PNG)
+
+Avec ceci, si nous essayons de changer comme précédement, le type de variable, un message d'erreur appraît, ce message d'erreur certifie que nous ne pouvons pas changer le type de la variable.
 
