@@ -22,4 +22,8 @@ Dans ce cas ci-dessus, on peut voir la conditions qui sera ma note par rapport Ã
 
 Dans Powershell cela nous donnerai Ã§ela:
 
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple%20Condition%201.PNG)
+
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple%20Condition%202.PNG)
+
 
