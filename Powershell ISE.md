@@ -26,4 +26,24 @@ Comme énoncé précedement on peut voir trois volets, nous allons décrire le f
 
 ## Ecrire son premier script 
 
-Avant d'écrire notre premier script, nous devons comprendre ce qu'est un script Powershell. Un script Powershell 
+Avant d'écrire notre premier script, nous devons comprendre ce qu'est un script Powershell. Powershell est language très orienté objet, c'est à dire que toute commande renvoie un objet, chaques scripts Powershell aura une extension .PS1, c'est avec cette extension que l'on peut reconnaître les scripts Powershell. Powershell dispose de 6 modes de sécurité qui vont permettre d'exécuter ou non un script Powershell.
+
+Les 6 modes sont les suivants:
+
+- Restricted = Ce mode interdira toutes exécutions de scripts
+
+- Allsigned = Ce mode requiert une signature numérique par un éditeur 
+
+- RemoteSigned = Ce mode exécutera tout fichiers sauf les fichiers provenant d'Internet qui doivent être signés numériquement. Si un fichier signé issu d'Internet est exécuté, le shell affichera un message d'avertissement demandant confirmation avant son exécution.
+
+- Unrestricted = Ce mode permet d'exécuter tout les fichiers, il y aura tout de même un message d'avertissement demandant la confirmation d'exécutions pour les fichiers issue d'internet
+
+- Bypass = Ce mode permet d'exécuter tout les fichiers sans messages même ceux qui proviennent d'Internet
+
+- Undefined = Ce mode ne permet pas d'exécuter les fichiers, ce mode ne permet rien, il faut donc définir un mode pour remplacer celui-ci
+
+Par défault, le mode de sécurité de Powershell c'est le Restricted, mais pour connaître le mode de sécurité attribuer à notre Powershell, nous allons taper la commande suivantes :
+
+- Get-ExecutionPolicy
+
+
