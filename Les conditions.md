@@ -29,3 +29,10 @@ Cela nous donnerai le résultat suivant si la note est au-dessus de 10:
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple%20Condition%202.PNG)
 
 
+## Création de plusieurs conditions 
+
+On peut donner plusieurs action à effectuer à un programme en créant plusieurs conditions, pour se faire on a juste a créer entre le if et le else, un ou plusieurs elseif.
+
+Comme dans l'exemple suivant :
+
+![]()
