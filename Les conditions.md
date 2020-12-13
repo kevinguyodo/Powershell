@@ -20,9 +20,11 @@ __Si__ à l'issu de ce cours sur Powershell j'obtiens une note inférieur à 10/
 
 Dans ce cas ci-dessus, on peut voir la conditions qui sera ma note par rapport à la moyenne, et selon où je me situe, j'aurais deux issu qui se créeront.
 
-Dans Powershell cela nous donnerai çela:
+Cela nous donnerai le résultat suivant si la note est en-dessous de 10:
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple%20Condition%201.PNG)
+
+Cela nous donnerai le résultat suivant si la note est au-dessus de 10:
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Exemple%20Condition%202.PNG)
 
