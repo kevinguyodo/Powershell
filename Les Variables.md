@@ -42,5 +42,5 @@ Dans Powershell, nous pouvons définir une variable comme vu précédement, et n
 
 Et nous obtenons donc le résultat suivant :
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Resultat%20exemple%201.PNG)
 
