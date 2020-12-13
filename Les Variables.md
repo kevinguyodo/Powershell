@@ -33,3 +33,7 @@ Et voici le résultat :
 ### Variable de type de booléen
 
 Dans powershell les variables bolléen sont déjà créer, c'est à dire qu'il deux variable dans powershell qui se nomme true et false et qui peuvent être utiliser.
+
+### Typer une variable
+
+Dans Powershell, nous pouvons définir une variable comme vu précédement, et nous pouvons changer le type des variables si nous réutilisons celle-ci, comme dans l'exemple suivant : 
