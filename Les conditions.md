@@ -31,7 +31,17 @@ Cela nous donnerai le résultat suivant si la note est au-dessus de 10:
 
 ## Création de plusieurs conditions 
 
-On peut donner plusieurs action à effectuer à un programme en créant plusieurs conditions, pour se faire on a juste a créer entre le if et le else, un ou plusieurs elseif.
+On peut donner plusieurs action à effectuer à un programme en créant plusieurs conditions, pour se faire on a juste a créer entre le 'if' et le 'else', un ou plusieurs 'elseif'.
+
+Pour créer un 'elseif', c'est la même méthode que pour le 'if', c'est à dire :
+
+- elseif (condition)
+
+  {
+  
+  action_qui_va_être_exécuter_si_la_condition_est_respecté
+  
+  }
 
 Comme dans l'exemple suivant :
 
