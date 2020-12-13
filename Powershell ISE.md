@@ -46,6 +46,7 @@ Par défault, le mode de sécurité de Powershell c'est le Restricted, mais pour
 
 - __Get-ExecutionPolicy__
 
-Pour changer notre mode de sécurité, nous avons juste à taper la commande suivantes :
+Pour changer notre mode de sécurité, nous devons déjà être en Powershell ISE administrateurs, puis nous avons juste à taper la commande suivantes :
 
 - __Set-ExecutionPolicy 'mode_voulu'__
+
