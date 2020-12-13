@@ -44,3 +44,9 @@ Et nous obtenons donc le résultat suivant :
 
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Resultat%20exemple%201.PNG)
 
+Mais Powershell peut permettre de typer une variables, c'est à dire que si l'on type une variable qui correspondra à un nombre entier, cette variable si elle est réutiliser ne pourra servir que en tant que nombre entier, on ne pourra pas changer son type.
+
+Donc pour typer une variable, il suffit de mettre entre crochet avant le variable, son type, comme le montre l'exemple suivant : 
+
+![]()
+
