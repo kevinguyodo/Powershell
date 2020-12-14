@@ -22,9 +22,9 @@ __Certaines cmdlets sont longues à taper, il y a donc des alias présent dans P
 
 - Write = Permet d'écrire un message, une erreur ...
 
-[Revenir à la page d'accueil](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
 
-[Prochaine partie où on développe les commandes de bases](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets.md)
+
 
 
 
