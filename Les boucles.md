@@ -40,6 +40,6 @@ Foreach('élément' in 'collection de données')
 
 }
 
-Prenons un exemple concret.
+Voyons l'exemple ci-dessous
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Boucle%20Foreach.PNG)
