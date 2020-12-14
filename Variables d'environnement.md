@@ -14,4 +14,4 @@ Dans Powershell on peut avoir accès à toutes les variables d'environnement ave
 
 - Get-ChildItem env:
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variable%20d'environnement.PNG)
