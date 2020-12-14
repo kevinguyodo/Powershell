@@ -8,10 +8,3 @@ Dans Powershell ISE, on peut avoir accès aux variables d'environnement avec les
 
 $Env:'nom de la variable'
 
-## Comment utiliser les variables d'environnement dans Powershell 
-
-Dans Powershell on peut avoir accès à toutes les variables d'environnement avec la commande suivante:
-
-- Get-ChildItem env:
-
-![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Variable%20d'environnement.PNG)
