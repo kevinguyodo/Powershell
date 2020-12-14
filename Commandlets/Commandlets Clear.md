@@ -1,4 +1,4 @@
-# CommandletsClear
+# Commandlets Clear
 
 Les commandes Clear, servent à avoir un écran dégager sans rien de visibile
 
