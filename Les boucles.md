@@ -20,8 +20,6 @@ Bloc d'instruction si la condition est respecter
 
 }
 
-
-
 Nous allons faire un exemple pour mieux comprendre.
 
 Prenons une variable qui sera un nombre entier, ce nombre vaut 0, on va l'incrémenter, et on va afficher un message avec sa valeur tant qu'il sera inférieur à 10.
