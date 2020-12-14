@@ -2,16 +2,16 @@
 
 ## Introduction à Powershell
 
-__Powershell est un interpréteur de ligne de commande qui est a été développé par Microsoft, c'est un language de script conçu spécialement pour l'administration du système. Il est basé sur .NET Framework (composant installé sur Windows qui permet de faire fonctionner les applications). Il a été conçu pour automatiser les tâches systèmes, et pour créer des outils d'administration de système pour les processus courants mis en oeuvre. De plus Powershell comprends Powershell ISE qui permet de créer des scripts.__
+__Powershell est un interpréteur de ligne de commandes qui a été développé par Microsoft, c'est un language de script conçu spécialement pour l'administration du système. Il est basé sur .NET Framework (composant installé sur Windows qui permet de faire fonctionner les applications). Il a été conçu pour automatiser les tâches systèmes, et pour créer des outils d'administration de systèmes pour les processus courants mis en oeuvre. De plus Powershell comprend Powershell ISE qui permet de créer des scripts.__
 
 
 
 ## Sommaire
 
 - [Histoire de Powershell](https://github.com/kevinguyodo/Powershell/blob/main/Histoire%20Powershell.md)
-- [Comment installé Powershell](https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md)
-- [Les commandlets](https://github.com/kevinguyodo/Powershell/tree/main/Commandlets)
-  - [La base des commandlets](https://github.com/kevinguyodo/Powershell/tree/main/Commandlets/La%20base%20des%20commandlets.md)
+- [Comment installer Powershell](https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md)
+- [Les Commandlets](https://github.com/kevinguyodo/Powershell/tree/main/Commandlets)
+  - [La base des Commandlets](https://github.com/kevinguyodo/Powershell/tree/main/Commandlets/La%20base%20des%20commandlets.md)
   - [Les Commandlets Get](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Get.md)
   - [Les Commandlets Set](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Set.md)
   - [Les Commandlets Clear](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Clear.md)
@@ -26,7 +26,7 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
   - [Les Boucles dans Powershell ISE](https://github.com/kevinguyodo/Powershell/blob/main/Powershell%20ISE/Les%20boucles.md)
   - [Les Conditions dans Powershell ISE](https://github.com/kevinguyodo/Powershell/blob/main/Powershell%20ISE/Les%20conditions.md)
 - [Mon script](https://github.com/kevinguyodo/Powershell/blob/main/Mon%20script.md)
-- [Mes images utilisé pour ce projet](https://github.com/kevinguyodo/Powershell/tree/main/Image)
+- [Mes images utilisées pour ce projet](https://github.com/kevinguyodo/Powershell/tree/main/Image)
 
 
 ## Mes différentes sources d'information 
@@ -41,8 +41,8 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
 
 ## Mon opinion sur ce projet
 
-J'ai trouver ça plutôt intéressant de faire son propre cours sur un sujet qui m'est inconnu. Ca m'a permis d'apprendre beaucoup de chose. En faisant mon propre cours, j'ai un peu galéré à m'organiser au vu du nombre énorme d'informations que j'avais collecter, mais j'ai réussi à m'organiser de façon à ce que je sache où se trouve chaque information. Donc de manière générale, j'ai aimé faire ce projet.
+J'ai trouvé cela plutôt intéressant de faire son propre cours sur un sujet qui m'est inconnu. Cela m'a permis d'apprendre beaucoup de choses. En faisant mon propre cours, j'ai un peu peiné à m'organiser au vu du nombre énorme d'informations que j'avais collectées, mais j'ai réussi à m'organiser de façon à ce que je sache où se trouve chaque information. Donc de manière générale, j'ai aimé faire ce projet.
 
-## Comment je m'y suis pris
+## Comment ai-je procédé ?
 
-J'ai tout d'abord collecté un maximum d'information que j'ai déposé sur un fichier Word, puis j'ai organisé ces idées par grande partie, puis j'ai commencé la rédaction sur github. Pour les images je les ai moi même créer, et je les prenais lors de la rédaction. Une fois tout les fichiers écrient, je les ai rangé dans des dossiers approprié.
+J'ai tout d'abord collecté un maximum d'informations que j'ai déposées sur un fichier Word, puis j'ai organisé ces idées par grandes parties, puis j'ai commencé la rédaction sur Github. Pour les images je les ai moi même créées lors de la rédaction. Une fois tous les fichiers écrits, je les ai rangés dans des dossiers appropriés.
