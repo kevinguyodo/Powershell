@@ -10,7 +10,8 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
 
 - [Histoire de Powershell](https://github.com/kevinguyodo/Powershell/blob/main/Histoire%20Powershell.md)
 - [Comment installé Powershell](https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md)
-- [La base des commandlets](https://github.com/kevinguyodo/Powershell/blob/main/La%20base%20des%20commandlets.md)
+- [Les commandlets](https://github.com/kevinguyodo/Powershell/blob/main/La%20base%20des%20commandlets.md)
+  - [La base des commandlets](https://github.com/kevinguyodo/Powershell/blob/main/La%20base%20des%20commandlets.md)
 - Executer et comprendre les Commandlets
 - Comprendre Powershell ISE
 - Quelques script
