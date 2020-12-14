@@ -22,6 +22,6 @@ __Pour comprendre un peu mieux Powershell, nous devons passer par son histoire__
 - En mars 2020, la dernière version de Windows Powershell est sortie, cette version est basé sur .NET 3.1, c'est une version LTS, ce qui signifie Long-Term Support, c'est donc une version spécifique d'un logiciel dont le support est assuré pour une période plus longue que la normale.
 
 
-[Revenir à la page d'accueil](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
 
-[Prochaine partie du cours](https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md)
+
