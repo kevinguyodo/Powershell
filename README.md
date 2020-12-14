@@ -19,8 +19,8 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
   - [Les Commandlets New](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20New.md)
   - [Les Commandlets Read](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Read.md)
   - [Les Commandlets Write](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Write.md)
-- Executer et comprendre les Commandlets
-- Comprendre Powershell ISE
+- [Powershell ISE](https://github.com/kevinguyodo/Powershell/tree/main/Powershell%20ISE)
+  - []
 - Quelques script
 
 
