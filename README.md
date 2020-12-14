@@ -12,6 +12,13 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
 - [Comment installé Powershell](https://github.com/kevinguyodo/Powershell/blob/main/Installation%20Powershell.md)
 - [Les commandlets](https://github.com/kevinguyodo/Powershell/tree/main/Commandlets)
   - [La base des commandlets](https://github.com/kevinguyodo/Powershell/tree/main/Commandlets/La%20base%20des%20commandlets.md)
+  - [Les Commandlets Get](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Get.md)
+  - [Les Commandlets Set](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Set.md)
+  - [Les Commandlets Clear](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Clear.md)
+  - [Les Commandlets Remove](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Remove.md)
+  - [Les Commandlets New](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20New.md)
+  - [Les Commandlets Read](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Read.md)
+  - [Les Commandlets Write](https://github.com/kevinguyodo/Powershell/blob/main/Commandlets/Commandlets%20Write.md)
 - Executer et comprendre les Commandlets
 - Comprendre Powershell ISE
 - Quelques script
