@@ -24,4 +24,4 @@ Nous allons faire un exemple pour mieux comprendre.
 
 Prenons une variable qui sera un nombre entier, ce nombre vaut 0, on va l'incrémenter, et on va afficher un message avec sa valeur tant qu'il sera inférieur à 10.
 
-![]()
+![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Boucle%20For.PNG)
