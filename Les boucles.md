@@ -16,7 +16,7 @@ For ('état initial';'condition de répétition';'incrémentation')
 
 {
 
-Bloc d'instruction si la condition est respecter 
+   Bloc d'instruction si la condition est respecter 
 
 }
 
@@ -27,3 +27,19 @@ Prenons une variable qui sera un nombre entier, ce nombre vaut 0, on va l'incré
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Boucle%20For.PNG)
 
 ### Boucle Foreach
+
+Les boucles 'foreach' permet de manipuler une collection de données. Une collection de données peut être une commandlet, le contenu d'un fichier, plusieurs variables prédéfinie ... Une variable est généralement attribuer à la collection de données que l'on souhaite.
+
+Les boucles 'foreach' dans Powerhsell se forme de la façon suivantes:
+
+Foreach('élément' in 'collection de données')
+
+{
+
+  Bloc d'instruction 
+
+}
+
+Prenons un exemple concret.
+
+![]()
