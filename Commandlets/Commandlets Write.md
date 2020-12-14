@@ -13,3 +13,5 @@ Les commandes Write auront pour but d'écrire une erreur, un message ...
 - __Write-debug "cannot open this file"__ = Cette commande va permettre d'afficher ce message si dans un programme l'utilisateur veut ouvrir un fichier mais que ce n'est pas possible
 
 - __Write-error "Error: Too many input values."__ = Cette commande va permettre d'afficher ce message si le programme rencontre une erreur
+
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
