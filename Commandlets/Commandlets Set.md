@@ -15,3 +15,4 @@ Avant de commencer, avec la commande set, nous allons pouvoir changer toutes les
 
 - __Set-Service -name "nom du service voulu" -Status Stopped__ = Cette commande va permettre de changer le status du service et de le stopper
 
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
