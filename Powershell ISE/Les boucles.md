@@ -1,22 +1,22 @@
 # Les Boucles
 
-__Les boucles dans la programmation permettent de répéter une ou plusieurs instructions, cela permet de ne pas réitéter plusieurs fois certaines instructions__
+__Les boucles dans la programmation permettent de répéter une ou plusieurs instructions, cela permet de ne pas réitérer plusieurs fois certaines instructions__
 
-## Deux type de boucle dans Powershell 
+## Deux types de boucles dans Powershell 
 
-Dans Powershell, comme dans beaucoup de language de programmation, il y a deux types de boucles, on retrouve la boucle basique 'for', et on peut aussi retrouver la boucle 'foreach'.
+Dans Powershell, comme dans beaucoup de languages de programmation, il y a deux types de boucles, on retrouve la boucle basique 'for', et on peut aussi retrouver la boucle 'foreach'.
 
-On va donc développer les deux type de boucle.
+On va donc développer les deux types de boucles.
 
 ### Boucle for
 
-Les boucles 'for' dans powershell se forme de la façon suivantes:
+Les boucles 'for' dans Powershell se forment de la façon suivante:
 
 For ('état initial';'condition de répétition';'incrémentation')
 
 {
 
-   Bloc d'instruction si la condition est respecter 
+   Bloc d'instruction si la condition est respectée
 
 }
 
@@ -28,9 +28,9 @@ Prenons une variable qui sera un nombre entier, ce nombre vaut 0, on va l'incré
 
 ### Boucle Foreach
 
-Les boucles 'foreach' permet de manipuler une collection de données. Une collection de données peut être une commandlet, le contenu d'un fichier, plusieurs variables prédéfinie ... Une variable est généralement attribuer à la collection de données que l'on souhaite.
+Les boucles 'foreach' permettent de manipuler une collection de données. Une collection de données peut être une commandlet, le contenu d'un fichier, plusieurs variables prédéfinies ... Une variable est généralement attribuée à la collection de données que l'on souhaite.
 
-Les boucles 'foreach' dans Powerhsell se forme de la façon suivantes:
+Les boucles 'foreach' dans Powerhsell se forment de la façon suivante:
 
 Foreach('élément' in 'collection de données')
 
