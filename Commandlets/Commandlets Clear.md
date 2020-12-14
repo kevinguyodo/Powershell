@@ -8,3 +8,5 @@ Les commandes Clear, servent à avoir un écran dégager sans rien de visibile
 
 Résultat après l'exécution de cette commande :
 ![](https://github.com/kevinguyodo/Powershell/blob/main/Image/Clear.PNG)
+
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
