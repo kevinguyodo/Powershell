@@ -42,3 +42,7 @@ __Powershell est un interpréteur de ligne de commande qui est a été développ
 ## Mon opinion sur ce projet
 
 J'ai trouver ça plutôt intéressant de faire son propre cours sur un sujet qui m'est inconnu. Ca m'a permis d'apprendre beaucoup de chose. En faisant mon propre cours, j'ai un peu galéré à m'organiser au vu du nombre énorme d'informations que j'avais collecter, mais j'ai réussi à m'organiser de façon à ce que je sache où se trouve chaque information. Donc de manière générale, j'ai aimé faire ce projet.
+
+## Comment je m'y suis pris
+
+J'ai tout d'abord collecté un maximum d'information que j'ai déposé sur un fichier Word, puis j'ai organisé ces idées par grande partie, puis j'ai commencé la rédaction sur github. Pour les images je les ai moi même créer, et je les prenais lors de la rédaction. Une fois tout les fichiers écrient, je les ai rangé dans des dossiers approprié.
