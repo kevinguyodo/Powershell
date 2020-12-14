@@ -52,3 +52,4 @@ Donc pour typer une variable, il suffit de mettre entre crochet avant le variabl
 
 Avec ceci, si nous essayons de changer comme précédement, le type de variable, un message d'erreur appraît, ce message d'erreur certifie que nous ne pouvons pas changer le type de la variable.
 
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
