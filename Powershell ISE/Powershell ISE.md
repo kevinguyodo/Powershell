@@ -51,4 +51,8 @@ Pour changer notre mode de sécurité, nous devons déjà être en Powershell IS
 
 - __Set-ExecutionPolicy 'mode_voulu'__
 
+## La base des scripts powershell
+
+Les scripts Powershell sont régulièrement composé de variable, de variable d'environnement de boucle et de conditions, c'est ce que nous allons développer dans les prochaines parties.
+
 
