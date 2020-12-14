@@ -20,3 +20,4 @@ Les commandes New auront pour but de créer ce que l'on souhaite (fichier, dossi
 
 - __New-Alias 'nom de l'alias' 'commande que va représenter l'alias'__ = Création d'un alias 
 
+[Revenir au sommaire](https://github.com/kevinguyodo/Powershell/blob/main/README.md)
