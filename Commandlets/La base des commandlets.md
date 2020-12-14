@@ -4,7 +4,7 @@ __Tout d'abord les commandlets (cmdlets) ce sont des lignes de commandes qui von
 
 __Le principe de base des cmdlets c'est le suivant : 'verbe'-'nom'__
 
-__Certaines cmdlets sont longues à taper, il y a donc des alias présent dans Powershell, les alias sont des raccourcis vers des commandes__ 
+__Certaines cmdlets sont longues à taper, il y a donc des alias présents dans Powershell, les alias sont des raccourcis vers des commandes__ 
 
 ## Les différent verbes qui vont permettre de pouvoir exécuter des commandes
 
