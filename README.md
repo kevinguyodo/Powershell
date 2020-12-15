@@ -27,6 +27,7 @@ __Powershell est un interpréteur de ligne de commandes qui a été développé 
   - [Les Conditions dans Powershell ISE](https://github.com/kevinguyodo/Powershell/blob/main/Powershell%20ISE/Les%20conditions.md)
 - [Exemple de script](https://github.com/kevinguyodo/Powershell/tree/main/Script)
   - [Mon script](https://github.com/kevinguyodo/Powershell/tree/main/Script/Mon%20script.md)
+  - [Mon script en format .PS1](https://github.com/kevinguyodo/Powershell/blob/main/Script/TP%201.ps1)
 - [Mes images utilisées pour ce projet](https://github.com/kevinguyodo/Powershell/tree/main/Image)
 
 
