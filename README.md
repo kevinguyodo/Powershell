@@ -25,7 +25,8 @@ __Powershell est un interpréteur de ligne de commandes qui a été développé 
   - [Les Variables d'environnement dans Powershell ISE](https://github.com/kevinguyodo/Powershell/blob/main/Powershell%20ISE/Variables%20d'environnement.md)
   - [Les Boucles dans Powershell ISE](https://github.com/kevinguyodo/Powershell/blob/main/Powershell%20ISE/Les%20boucles.md)
   - [Les Conditions dans Powershell ISE](https://github.com/kevinguyodo/Powershell/blob/main/Powershell%20ISE/Les%20conditions.md)
-- [Mon script](https://github.com/kevinguyodo/Powershell/blob/main/Mon%20script.md)
+- [Exemple de script](https://github.com/kevinguyodo/Powershell/tree/main/Script)
+  - [Mon script](https://github.com/kevinguyodo/Powershell/tree/main/Script/Mon%20script.md)
 - [Mes images utilisées pour ce projet](https://github.com/kevinguyodo/Powershell/tree/main/Image)
 
 
