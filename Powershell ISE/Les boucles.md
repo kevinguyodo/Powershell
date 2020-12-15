@@ -12,13 +12,10 @@ On va donc développer les deux types de boucles.
 
 Les boucles 'for' dans Powershell se forment de la façon suivante:
 
-For ('état initial';'condition de répétition';'incrémentation')
-
-{
-
-   Bloc d'instruction si la condition est respectée
-
-}
+      For ('état initial';'condition de répétition';'incrémentation')
+      {
+       Bloc d'instruction si la condition est respectée
+      }
 
 Nous allons faire un exemple pour mieux comprendre.
 
@@ -32,13 +29,13 @@ Les boucles 'foreach' permettent de manipuler une collection de données. Une co
 
 Les boucles 'foreach' dans Powerhsell se forment de la façon suivante:
 
-Foreach('élément' in 'collection de données')
+      Foreach('élément' in 'collection de données')
 
-{
+      {
 
-  Bloc d'instruction 
+         Bloc d'instruction 
 
-}
+      }
 
 Voyons l'exemple ci-dessous
 
