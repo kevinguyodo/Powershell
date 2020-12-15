@@ -6,11 +6,11 @@ Dans le language Powershell comme dans tous les autres languages, un script est 
 
 Les conditions dans Powershell, se forment de la manière suivante :
 
-- if (condition) {
+    if (condition) {
 
-  action_qui_va_être_exécutée_si_la_condition_est_respectée
+    action_qui_va_être_exécutée_si_la_condition_est_respectée
   
-  }
+    }
   
 ## Création d'une action si la condition n'est pas respectée
 
@@ -35,13 +35,10 @@ On peut donner plusieurs actions à effectuer à un programme en créant plusieu
 
 Pour créer un 'elseif', c'est la même méthode que pour le 'if', c'est à dire :
 
-- elseif (condition)
-
-  {
-  
-  action_qui_va_être_exécutée_si_la_condition_est_respectée
-  
-  }
+    elseif (condition)
+    {
+    action_qui_va_être_exécutée_si_la_condition_est_respectée
+    }
 
 Comme dans l'exemple suivant :
 
