@@ -1,5 +1,4 @@
 ﻿# Création de variable semblable à un input
-# 
 $choose = Read-Host -prompt('Voulez vous faire : 1 = créer un utilisateur, 2 = modifier un utilisateur, 3 = supprimer un utilisateur, 4 = voir tout les utilisateurs,  5 = faire un recherche sur un utilisateur en particulier')
 
 
