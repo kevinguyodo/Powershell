@@ -30,11 +30,8 @@ Les boucles 'foreach' permettent de manipuler une collection de données. Une co
 Les boucles 'foreach' dans Powerhsell se forment de la façon suivante:
 
       Foreach('élément' in 'collection de données')
-
       {
-
          Bloc d'instruction 
-
       }
 
 Voyons l'exemple ci-dessous
